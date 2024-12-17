@@ -1,0 +1,15 @@
+# IDE files
+.idea/
+
+# PHP
+vendor/
+node_modules/
+
+# .env files
+.env
+
+# Logs
+logs/
+
+# Temporary files
+*.log
